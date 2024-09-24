@@ -37,4 +37,4 @@ uv run --with rich script.py
 Adiciona bibliotecas no corpo do script para ser executada com uv run
 uv add --script script.py "dynaconf" "rich"
 Para rodar use run, que ele instala temporariamente as dependências necessárias que foram inseridas no arquivo .py
-uv run script.py# uv
+uv run script.py
